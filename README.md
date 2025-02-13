@@ -5,7 +5,7 @@ I'm a passionate **DevOps Engineer** and **problem-solver**, dedicated to stream
 - 👀 **Interests**: I specialize in DevOps practices like CI/CD pipelines, Infrastructure as Code (IaC), and Cloud Computing, while also exploring containerization and orchestration tools.  
 - 🌱 **Currently Learning**: Advanced Kubernetes configurations, Terraform, and Multi-Cloud strategies.  
 - 💞️ **Open to Collaborations**: I enjoy working on projects involving automation, cloud architecture design, and performance optimization.  
-- 📫 **How to Reach Me**: [chaitu0095@gmail.com](mailto:chaitu0095@gmail.com) | [LinkedIn](https://www.linkedin.com/in/chaitanya-varma-bb3003246/) | [Portfolio](https://myportfolio.com)  
+- 📫 **How to Reach Me**: [chaitu0095@gmail.com](mailto:chaitu0095@gmail.com) | [LinkedIn](https://www.linkedin.com/in/chaitanya-varma-bb3003246/) | [Portfolio](https://ChaitanyaVarma707.github.io)  
 - 😄 **Pronouns**: He/Him  
 - ⚡ **Fun Fact**: I’ve automated the deployment of over 100 microservices using CI/CD pipelines and container orchestration tools like Kubernetes!
 
